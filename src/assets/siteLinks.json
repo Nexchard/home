@@ -1,37 +1,72 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Film",
+    "name": "Emby_2345",
+    "link": "http://192.168.31.186:2345/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Film",
+    "name": "Emby_6908",
+    "link": "http://192.168.31.186:6908/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Sync",
+    "name": "resilio同步",
+    "link": "http://192.168.31.186:8888/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Atlassian",
+    "name": "小雅Alist",
+    "link": "http://192.168.31.186:5678/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Ethernet",
+    "name": "Frps后台",
+    "link": "http://74.226.216.71:6443/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "CompressArrowsAlt",
+    "name": "One api",
+    "link": "http://192.168.31.186:3000/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Robot",
+    "name": "GPT—AI机器人",
+    "link": "http://192.168.31.186:3001"
+  },
+  {
+    "icon": "Atlas",
+    "name": "DDNS-GO",
+    "link": "http://192.168.31.186:9876"
+  },
+  {
+    "icon": "GlobeAsia",
+    "name": "群晖IPTV",
+    "link": "http://192.168.31.186:20230"
+  },
+  {
+    "icon": "Expand",
+    "name": "青龙面板",
+    "link": "http://192.168.31.186:5700"
+  },
+  {
+    "icon": "Sourcetree",
+    "name": "IPTV源",
+    "link": "http://192.168.31.186:8029"
+  },
+  {
+    "icon": "Archive",
+    "name": "Aliyun-Webdav",
+    "link": "http://192.168.31.186:14808"
+  },
+  {
+    "icon": "Cloudscale",
+    "name": "内网测速",
+    "link": "http://192.168.31.186:3300"
+  },
+  {
+    "icon": "Code",
+    "name": "Code-server",
+    "link": "http://192.168.31.186:8444"
   }
 ]
