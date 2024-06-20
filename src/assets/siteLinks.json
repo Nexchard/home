@@ -15,11 +15,6 @@
     "link": "http://192.168.31.186:6908/"
   },
   {
-    "icon": "Sync",
-    "name": "resilio同步",
-    "link": "http://192.168.31.186:8888/"
-  },
-  {
     "icon": "Atlassian",
     "name": "小雅Alist",
     "link": "http://192.168.31.186:5678/"
