@@ -67,6 +67,6 @@
   {
     "icon": "Code",
     "name": "Code-server",
-    "link": "http://192.168.31.186:8444"
+    "link": "http://192.168.31.186:8080"
   }
 ]
