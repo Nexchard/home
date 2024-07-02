@@ -15,6 +15,31 @@
     "link": "http://192.168.31.186:6908/"
   },
   {
+    "icon": "PhotoVideo",
+    "name": "Jellyfin",
+    "link": "http://192.168.31.186:8096/"
+  },
+  {
+    "icon": "Inbox",
+    "name": "NASTool",
+    "link": "http://192.168.31.186:3003/"
+  },
+  {
+    "icon": "Bolt",
+    "name": "qBittorrent",
+    "link": "http://192.168.31.186:8989/"
+  },
+  {
+    "icon": "Download",
+    "name": "Transmission",
+    "link": "http://192.168.31.186:9091/"
+  },
+  {
+    "icon": "UserAlt",
+    "name": "Jackett",
+    "link": "http://192.168.31.186:9117/"
+  },
+  {
     "icon": "Atlassian",
     "name": "小雅Alist",
     "link": "http://192.168.31.186:5678/"
@@ -68,6 +93,21 @@
     "icon": "Cloudscale",
     "name": "内网测速",
     "link": "http://192.168.31.186:3300"
+  },
+  {
+    "icon": "Sign",
+    "name": "NASTool导航页",
+    "link": "http://192.168.31.186:3002"
+  },
+  {
+    "icon": "Readme",
+    "name": "NASTool文档",
+    "link": "https://vip.nastool.work"
+  },
+  {
+    "icon": "Hubspot",
+    "name": "PTT种子站",
+    "link": "https://www.pttime.org/"
   },
   {
     "icon": "Code",
