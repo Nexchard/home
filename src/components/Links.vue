@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Archive,Atlas,Atlassian,Bolt,Cloudscale,CompressArrowsAlt,Code,Download,Ethernet,Expand,Film,GlobeAsia,Magic,Hdd,Hubspot,Inbox,Robot,Readme,PhotoVideo,Sourcetree,Sync,Sign,Tv,UserAlt } from "@vicons/fa"; // 注意使用正确的类别
+import { Archive,Atlas,Atlassian,Bolt,Blog,Cloudscale,CompressArrowsAlt,Code,Download,Ethernet,Expand,Film,GlobeAsia,Magic,Hdd,Hubspot,Inbox,Robot,Readme,PhotoVideo,Sourcetree,Sync,Sign,Tv,UserAlt } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -67,6 +67,7 @@ const siteIcon = {
   Atlas,
   Atlassian,
   Bolt,
+  Blog,
   Cloudscale,
   CompressArrowsAlt,
   Code,
