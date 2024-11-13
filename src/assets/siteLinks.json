@@ -25,6 +25,11 @@
     "link": "http://192.168.31.186:3003/"
   },
   {
+    "icon": "Headphones",
+    "name": "Navidrome",
+    "link": "http://192.168.31.186:4533/"
+  },
+  {
     "icon": "Bolt",
     "name": "qBittorrent",
     "link": "http://192.168.31.186:8989/"
@@ -123,5 +128,10 @@
     "icon": "Code",
     "name": "Code-server",
     "link": "http://192.168.31.186:8080"
+  },
+  {
+    "icon": "ItunesNote",
+    "name": "Music-Tag",
+    "link": "http://192.168.31.186:8543"
   }
 ]
